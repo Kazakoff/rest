@@ -7,7 +7,6 @@ const helmet = require('helmet');
 const bodyParser = require('body-parser');
 const { notFound, errorHandler } = require('./middlewares');
 
-//dzsfhbfg
 
 const app = express();
  
